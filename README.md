@@ -33,6 +33,7 @@ Email: santoscaio@gmail.com
 
 ## Endpoints (*CRUD de contato*)
 - Todos os retornos são respondidos em HTTP mais a informação em JSON
+- Atualmente uso o postman para consumo e teste de api's
 - Inserir contato
     - Insere um novo contato no banco de dados
     - method: **POST**
